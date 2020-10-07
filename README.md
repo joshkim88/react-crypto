@@ -1,2 +1,2 @@
 # react-crypto
-A simple cryptocurrency price app made with react.
+A simple cryptocurrency price tracking application made with react.
